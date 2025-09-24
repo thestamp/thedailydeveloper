@@ -39,7 +39,7 @@ Instead, we are simply creating a disk file (known as a **virtual disk)**, confi
    ![Browse for Location](/assets/images/step-by-step-how-to-fix-oculus-not-enough-space-install-error/2020-03-08_20-31-08.png)
 
 5. Then press OK
-   ![Disk Configuration](/assets/images/step-by-step-how-to-fix-oculus-not-enough-space-install-error/2020-03-08_20-31-46-2-1-324x400.png)
+   ![Disk Configuration](/assets/images/step-by-step-how-to-fix-oculus-not-enough-space-install-error/2020-03-08_20-31-46-2-1.png)
 
 6. Navigate the Browse window to C:\Oculus Software (or a spot of your choosing) and enter "OculusDisk" in the File Name
    ![Browse Location](/assets/images/step-by-step-how-to-fix-oculus-not-enough-space-install-error/2020-03-08_20-32-16.png)
@@ -94,4 +94,4 @@ Instead, we are simply creating a disk file (known as a **virtual disk)**, confi
     
     ![Oculus Installer Step 3](/assets/images/step-by-step-how-to-fix-oculus-not-enough-space-install-error/2020-03-08_20-35-45.png)
 
-**Enjoy Oculus VR! Give me a follow at @TheDailyDev on twitter, or contact me at <a href="https://web.archive.org/web/20210301101200/http://thedailydeveloper.com/hello">http://thedailydeveloper.com/hello</a>**
+**Enjoy Oculus VR! Give me a follow at @TheDailyDev on X!
