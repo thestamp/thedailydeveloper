@@ -1,0 +1,31 @@
+# Jekyll Configuration
+title: The Daily Developer
+description: A blog about development, technology, and problem-solving
+baseurl: ""
+url: "https://thestamp.github.io/thedailydeveloper"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Permalink structure
+permalink: /:title/
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:title/
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
